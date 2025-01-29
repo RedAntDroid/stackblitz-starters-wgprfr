@@ -1,9 +1,0 @@
-# Place your StackBlitz environment variables here,
-# and they will be securely synced to your account.
-
-
-API_KEY= "YOUR_API_KEY"
-SERVER_SECRET= "MY_SERVER_SECRET"
-IS_KALVIAN=true
-
- 
